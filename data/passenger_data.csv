@@ -1,0 +1,1081 @@
+Date,Route,TimeSlot,Passengers,BusesOperating
+2026-09-01,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),352,9
+2026-09-01,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),703,17
+2026-09-01,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),445,9
+2026-09-01,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),435,11
+2026-09-01,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),761,19
+2026-09-01,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),238,5
+2026-09-01,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),340,8
+2026-09-01,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),924,20
+2026-09-01,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),447,9
+2026-09-01,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),499,13
+2026-09-01,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),998,20
+2026-09-01,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),290,7
+2026-09-01,Route 303 - University Circular,06:00 - 08:00 (Early Morning),325,7
+2026-09-01,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),560,14
+2026-09-01,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),388,8
+2026-09-01,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),360,7
+2026-09-01,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),667,12
+2026-09-01,Route 303 - University Circular,19:00 - 22:00 (Late Evening),211,4
+2026-09-01,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),278,5
+2026-09-01,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),626,13
+2026-09-01,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),331,8
+2026-09-01,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),268,6
+2026-09-01,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),511,12
+2026-09-01,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),171,4
+2026-09-01,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),324,7
+2026-09-01,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),668,16
+2026-09-01,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),357,6
+2026-09-01,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),375,8
+2026-09-01,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),648,13
+2026-09-01,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),215,4
+2026-09-01,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),231,4
+2026-09-01,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),457,9
+2026-09-01,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),273,5
+2026-09-01,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),213,5
+2026-09-01,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),439,10
+2026-09-01,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),141,2
+2026-09-02,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),376,8
+2026-09-02,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),789,18
+2026-09-02,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),467,10
+2026-09-02,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),362,8
+2026-09-02,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),794,19
+2026-09-02,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),266,5
+2026-09-02,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),384,9
+2026-09-02,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),1016,22
+2026-09-02,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),428,11
+2026-09-02,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),403,8
+2026-09-02,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),995,22
+2026-09-02,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),265,6
+2026-09-02,Route 303 - University Circular,06:00 - 08:00 (Early Morning),328,7
+2026-09-02,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),728,14
+2026-09-02,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),300,6
+2026-09-02,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),347,7
+2026-09-02,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),613,13
+2026-09-02,Route 303 - University Circular,19:00 - 22:00 (Late Evening),194,4
+2026-09-02,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),249,4
+2026-09-02,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),629,15
+2026-09-02,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),312,7
+2026-09-02,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),328,6
+2026-09-02,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),549,11
+2026-09-02,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),201,5
+2026-09-02,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),336,7
+2026-09-02,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),754,16
+2026-09-02,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),326,7
+2026-09-02,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),308,6
+2026-09-02,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),801,16
+2026-09-02,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),226,5
+2026-09-02,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),224,4
+2026-09-02,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),393,8
+2026-09-02,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),215,4
+2026-09-02,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),251,6
+2026-09-02,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),461,10
+2026-09-02,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),144,2
+2026-09-03,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),330,8
+2026-09-03,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),762,15
+2026-09-03,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),378,8
+2026-09-03,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),447,9
+2026-09-03,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),765,16
+2026-09-03,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),230,5
+2026-09-03,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),377,8
+2026-09-03,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),812,19
+2026-09-03,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),425,9
+2026-09-03,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),420,8
+2026-09-03,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),1013,25
+2026-09-03,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),281,5
+2026-09-03,Route 303 - University Circular,06:00 - 08:00 (Early Morning),261,6
+2026-09-03,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),721,15
+2026-09-03,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),349,7
+2026-09-03,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),360,8
+2026-09-03,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),580,13
+2026-09-03,Route 303 - University Circular,19:00 - 22:00 (Late Evening),214,4
+2026-09-03,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),270,5
+2026-09-03,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),647,16
+2026-09-03,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),302,7
+2026-09-03,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),324,7
+2026-09-03,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),530,11
+2026-09-03,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),190,4
+2026-09-03,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),288,5
+2026-09-03,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),684,13
+2026-09-03,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),389,10
+2026-09-03,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),413,8
+2026-09-03,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),821,16
+2026-09-03,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),265,6
+2026-09-03,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),200,4
+2026-09-03,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),436,11
+2026-09-03,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),238,4
+2026-09-03,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),216,4
+2026-09-03,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),458,10
+2026-09-03,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),176,3
+2026-09-04,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),343,7
+2026-09-04,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),675,16
+2026-09-04,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),474,10
+2026-09-04,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),394,8
+2026-09-04,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),676,14
+2026-09-04,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),260,5
+2026-09-04,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),355,6
+2026-09-04,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),773,19
+2026-09-04,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),501,10
+2026-09-04,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),421,10
+2026-09-04,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),1022,24
+2026-09-04,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),313,6
+2026-09-04,Route 303 - University Circular,06:00 - 08:00 (Early Morning),279,6
+2026-09-04,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),642,12
+2026-09-04,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),320,6
+2026-09-04,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),304,6
+2026-09-04,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),693,16
+2026-09-04,Route 303 - University Circular,19:00 - 22:00 (Late Evening),207,4
+2026-09-04,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),220,4
+2026-09-04,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),650,12
+2026-09-04,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),272,6
+2026-09-04,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),271,5
+2026-09-04,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),651,12
+2026-09-04,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),187,4
+2026-09-04,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),343,7
+2026-09-04,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),719,13
+2026-09-04,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),401,10
+2026-09-04,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),394,9
+2026-09-04,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),755,14
+2026-09-04,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),213,5
+2026-09-04,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),177,3
+2026-09-04,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),418,8
+2026-09-04,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),264,6
+2026-09-04,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),241,5
+2026-09-04,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),463,9
+2026-09-04,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),171,4
+2026-09-05,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),214,5
+2026-09-05,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),417,8
+2026-09-05,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),281,6
+2026-09-05,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),271,5
+2026-09-05,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),496,13
+2026-09-05,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),147,2
+2026-09-05,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),288,6
+2026-09-05,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),632,13
+2026-09-05,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),283,7
+2026-09-05,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),280,5
+2026-09-05,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),647,12
+2026-09-05,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),221,5
+2026-09-05,Route 303 - University Circular,06:00 - 08:00 (Early Morning),171,4
+2026-09-05,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),449,8
+2026-09-05,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),222,4
+2026-09-05,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),192,3
+2026-09-05,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),475,9
+2026-09-05,Route 303 - University Circular,19:00 - 22:00 (Late Evening),156,3
+2026-09-05,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),141,2
+2026-09-05,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),349,6
+2026-09-05,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),221,4
+2026-09-05,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),207,4
+2026-09-05,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),413,10
+2026-09-05,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),140,2
+2026-09-05,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),185,3
+2026-09-05,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),447,10
+2026-09-05,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),271,6
+2026-09-05,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),200,4
+2026-09-05,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),443,8
+2026-09-05,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),177,4
+2026-09-05,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),273,6
+2026-09-05,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),668,14
+2026-09-05,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),364,9
+2026-09-05,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),344,8
+2026-09-05,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),688,16
+2026-09-05,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),177,4
+2026-09-06,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),234,5
+2026-09-06,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),505,11
+2026-09-06,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),261,5
+2026-09-06,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),234,4
+2026-09-06,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),431,8
+2026-09-06,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),170,3
+2026-09-06,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),276,5
+2026-09-06,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),551,14
+2026-09-06,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),332,7
+2026-09-06,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),280,5
+2026-09-06,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),633,14
+2026-09-06,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),186,4
+2026-09-06,Route 303 - University Circular,06:00 - 08:00 (Early Morning),180,4
+2026-09-06,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),368,8
+2026-09-06,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),259,5
+2026-09-06,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),240,5
+2026-09-06,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),403,8
+2026-09-06,Route 303 - University Circular,19:00 - 22:00 (Late Evening),121,2
+2026-09-06,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),161,3
+2026-09-06,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),384,8
+2026-09-06,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),199,4
+2026-09-06,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),188,3
+2026-09-06,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),414,10
+2026-09-06,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),110,2
+2026-09-06,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),210,4
+2026-09-06,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),495,10
+2026-09-06,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),262,6
+2026-09-06,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),212,5
+2026-09-06,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),432,9
+2026-09-06,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),172,4
+2026-09-06,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),255,5
+2026-09-06,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),530,11
+2026-09-06,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),321,7
+2026-09-06,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),316,8
+2026-09-06,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),650,13
+2026-09-06,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),177,4
+2026-09-07,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),305,5
+2026-09-07,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),758,19
+2026-09-07,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),384,7
+2026-09-07,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),384,7
+2026-09-07,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),819,15
+2026-09-07,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),267,5
+2026-09-07,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),443,9
+2026-09-07,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),942,20
+2026-09-07,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),536,11
+2026-09-07,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),512,10
+2026-09-07,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),908,21
+2026-09-07,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),281,5
+2026-09-07,Route 303 - University Circular,06:00 - 08:00 (Early Morning),308,6
+2026-09-07,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),662,15
+2026-09-07,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),307,7
+2026-09-07,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),307,7
+2026-09-07,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),667,16
+2026-09-07,Route 303 - University Circular,19:00 - 22:00 (Late Evening),202,4
+2026-09-07,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),269,6
+2026-09-07,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),549,12
+2026-09-07,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),304,7
+2026-09-07,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),285,5
+2026-09-07,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),599,12
+2026-09-07,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),215,4
+2026-09-07,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),300,7
+2026-09-07,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),665,13
+2026-09-07,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),424,8
+2026-09-07,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),351,7
+2026-09-07,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),729,15
+2026-09-07,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),219,5
+2026-09-07,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),197,5
+2026-09-07,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),427,8
+2026-09-07,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),240,5
+2026-09-07,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),230,5
+2026-09-07,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),482,12
+2026-09-07,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),150,3
+2026-09-08,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),290,6
+2026-09-08,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),671,15
+2026-09-08,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),359,8
+2026-09-08,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),356,8
+2026-09-08,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),841,19
+2026-09-08,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),279,5
+2026-09-08,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),367,9
+2026-09-08,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),756,16
+2026-09-08,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),561,13
+2026-09-08,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),478,9
+2026-09-08,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),956,19
+2026-09-08,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),346,8
+2026-09-08,Route 303 - University Circular,06:00 - 08:00 (Early Morning),244,6
+2026-09-08,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),566,11
+2026-09-08,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),358,8
+2026-09-08,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),349,7
+2026-09-08,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),594,12
+2026-09-08,Route 303 - University Circular,19:00 - 22:00 (Late Evening),236,5
+2026-09-08,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),277,5
+2026-09-08,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),499,13
+2026-09-08,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),294,6
+2026-09-08,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),332,7
+2026-09-08,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),622,15
+2026-09-08,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),206,4
+2026-09-08,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),274,5
+2026-09-08,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),769,16
+2026-09-08,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),340,6
+2026-09-08,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),390,9
+2026-09-08,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),704,16
+2026-09-08,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),240,5
+2026-09-08,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),222,4
+2026-09-08,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),396,7
+2026-09-08,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),258,5
+2026-09-08,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),246,5
+2026-09-08,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),497,9
+2026-09-08,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),144,2
+2026-09-09,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),341,7
+2026-09-09,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),739,15
+2026-09-09,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),387,7
+2026-09-09,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),428,10
+2026-09-09,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),869,20
+2026-09-09,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),257,5
+2026-09-09,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),382,9
+2026-09-09,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),977,24
+2026-09-09,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),445,9
+2026-09-09,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),435,8
+2026-09-09,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),970,23
+2026-09-09,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),260,5
+2026-09-09,Route 303 - University Circular,06:00 - 08:00 (Early Morning),250,5
+2026-09-09,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),635,13
+2026-09-09,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),372,7
+2026-09-09,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),329,6
+2026-09-09,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),579,14
+2026-09-09,Route 303 - University Circular,19:00 - 22:00 (Late Evening),232,5
+2026-09-09,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),259,5
+2026-09-09,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),570,12
+2026-09-09,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),335,7
+2026-09-09,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),310,7
+2026-09-09,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),541,13
+2026-09-09,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),177,4
+2026-09-09,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),315,6
+2026-09-09,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),630,15
+2026-09-09,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),382,7
+2026-09-09,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),411,9
+2026-09-09,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),673,17
+2026-09-09,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),217,5
+2026-09-09,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),182,4
+2026-09-09,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),454,10
+2026-09-09,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),283,6
+2026-09-09,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),246,6
+2026-09-09,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),516,11
+2026-09-09,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),172,3
+2026-09-10,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),334,7
+2026-09-10,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),682,17
+2026-09-10,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),471,10
+2026-09-10,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),427,9
+2026-09-10,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),680,14
+2026-09-10,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),225,5
+2026-09-10,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),403,9
+2026-09-10,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),1015,25
+2026-09-10,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),526,11
+2026-09-10,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),497,12
+2026-09-10,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),921,20
+2026-09-10,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),299,5
+2026-09-10,Route 303 - University Circular,06:00 - 08:00 (Early Morning),328,7
+2026-09-10,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),661,14
+2026-09-10,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),377,7
+2026-09-10,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),301,7
+2026-09-10,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),691,17
+2026-09-10,Route 303 - University Circular,19:00 - 22:00 (Late Evening),198,5
+2026-09-10,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),215,4
+2026-09-10,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),581,13
+2026-09-10,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),286,5
+2026-09-10,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),310,6
+2026-09-10,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),617,12
+2026-09-10,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),211,4
+2026-09-10,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),327,6
+2026-09-10,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),680,14
+2026-09-10,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),401,7
+2026-09-10,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),395,10
+2026-09-10,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),647,15
+2026-09-10,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),257,5
+2026-09-10,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),188,4
+2026-09-10,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),474,9
+2026-09-10,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),280,6
+2026-09-10,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),232,5
+2026-09-10,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),400,9
+2026-09-10,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),146,3
+2026-09-11,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),296,5
+2026-09-11,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),829,18
+2026-09-11,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),472,9
+2026-09-11,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),410,9
+2026-09-11,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),672,13
+2026-09-11,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),257,5
+2026-09-11,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),445,10
+2026-09-11,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),907,19
+2026-09-11,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),486,12
+2026-09-11,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),436,10
+2026-09-11,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),961,19
+2026-09-11,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),289,6
+2026-09-11,Route 303 - University Circular,06:00 - 08:00 (Early Morning),267,5
+2026-09-11,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),698,15
+2026-09-11,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),347,8
+2026-09-11,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),312,6
+2026-09-11,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),641,14
+2026-09-11,Route 303 - University Circular,19:00 - 22:00 (Late Evening),252,5
+2026-09-11,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),256,5
+2026-09-11,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),512,11
+2026-09-11,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),336,7
+2026-09-11,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),315,7
+2026-09-11,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),593,11
+2026-09-11,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),191,3
+2026-09-11,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),276,5
+2026-09-11,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),718,17
+2026-09-11,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),344,7
+2026-09-11,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),365,9
+2026-09-11,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),826,16
+2026-09-11,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),237,5
+2026-09-11,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),221,4
+2026-09-11,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),478,10
+2026-09-11,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),231,4
+2026-09-11,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),265,6
+2026-09-11,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),472,10
+2026-09-11,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),174,3
+2026-09-12,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),244,4
+2026-09-12,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),457,9
+2026-09-12,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),263,5
+2026-09-12,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),254,5
+2026-09-12,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),473,11
+2026-09-12,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),173,3
+2026-09-12,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),256,6
+2026-09-12,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),581,13
+2026-09-12,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),322,7
+2026-09-12,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),293,6
+2026-09-12,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),539,11
+2026-09-12,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),202,4
+2026-09-12,Route 303 - University Circular,06:00 - 08:00 (Early Morning),201,5
+2026-09-12,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),445,9
+2026-09-12,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),250,5
+2026-09-12,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),225,4
+2026-09-12,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),490,10
+2026-09-12,Route 303 - University Circular,19:00 - 22:00 (Late Evening),123,2
+2026-09-12,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),169,3
+2026-09-12,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),408,9
+2026-09-12,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),204,4
+2026-09-12,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),202,4
+2026-09-12,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),397,9
+2026-09-12,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),125,2
+2026-09-12,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),192,4
+2026-09-12,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),472,9
+2026-09-12,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),275,5
+2026-09-12,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),225,5
+2026-09-12,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),498,10
+2026-09-12,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),173,4
+2026-09-12,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),228,4
+2026-09-12,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),658,12
+2026-09-12,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),346,7
+2026-09-12,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),265,5
+2026-09-12,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),672,15
+2026-09-12,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),213,4
+2026-09-13,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),189,3
+2026-09-13,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),459,10
+2026-09-13,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),241,5
+2026-09-13,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),258,5
+2026-09-13,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),456,11
+2026-09-13,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),187,4
+2026-09-13,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),237,4
+2026-09-13,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),513,11
+2026-09-13,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),293,7
+2026-09-13,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),253,5
+2026-09-13,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),666,14
+2026-09-13,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),177,4
+2026-09-13,Route 303 - University Circular,06:00 - 08:00 (Early Morning),177,3
+2026-09-13,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),431,9
+2026-09-13,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),211,4
+2026-09-13,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),195,4
+2026-09-13,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),426,10
+2026-09-13,Route 303 - University Circular,19:00 - 22:00 (Late Evening),146,3
+2026-09-13,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),189,4
+2026-09-13,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),420,8
+2026-09-13,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),189,4
+2026-09-13,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),200,4
+2026-09-13,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),328,7
+2026-09-13,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),126,2
+2026-09-13,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),189,3
+2026-09-13,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),466,10
+2026-09-13,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),259,5
+2026-09-13,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),246,5
+2026-09-13,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),490,9
+2026-09-13,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),162,3
+2026-09-13,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),273,6
+2026-09-13,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),573,12
+2026-09-13,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),344,8
+2026-09-13,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),283,5
+2026-09-13,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),545,13
+2026-09-13,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),203,3
+2026-09-14,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),341,6
+2026-09-14,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),828,19
+2026-09-14,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),456,10
+2026-09-14,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),425,8
+2026-09-14,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),742,18
+2026-09-14,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),296,7
+2026-09-14,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),451,9
+2026-09-14,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),943,18
+2026-09-14,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),556,11
+2026-09-14,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),439,8
+2026-09-14,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),781,17
+2026-09-14,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),300,6
+2026-09-14,Route 303 - University Circular,06:00 - 08:00 (Early Morning),300,6
+2026-09-14,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),699,13
+2026-09-14,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),310,7
+2026-09-14,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),282,5
+2026-09-14,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),672,13
+2026-09-14,Route 303 - University Circular,19:00 - 22:00 (Late Evening),201,5
+2026-09-14,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),278,5
+2026-09-14,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),531,12
+2026-09-14,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),278,5
+2026-09-14,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),275,6
+2026-09-14,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),514,10
+2026-09-14,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),173,3
+2026-09-14,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),327,6
+2026-09-14,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),789,17
+2026-09-14,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),411,10
+2026-09-14,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),350,8
+2026-09-14,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),717,16
+2026-09-14,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),272,7
+2026-09-14,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),193,4
+2026-09-14,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),510,10
+2026-09-14,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),218,4
+2026-09-14,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),235,4
+2026-09-14,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),445,10
+2026-09-14,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),140,3
+2026-09-15,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),373,8
+2026-09-15,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),790,16
+2026-09-15,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),428,11
+2026-09-15,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),423,10
+2026-09-15,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),692,15
+2026-09-15,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),226,4
+2026-09-15,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),361,8
+2026-09-15,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),982,23
+2026-09-15,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),436,8
+2026-09-15,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),389,7
+2026-09-15,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),817,20
+2026-09-15,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),282,6
+2026-09-15,Route 303 - University Circular,06:00 - 08:00 (Early Morning),299,7
+2026-09-15,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),545,11
+2026-09-15,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),324,7
+2026-09-15,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),297,7
+2026-09-15,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),707,15
+2026-09-15,Route 303 - University Circular,19:00 - 22:00 (Late Evening),236,5
+2026-09-15,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),274,6
+2026-09-15,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),499,11
+2026-09-15,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),353,9
+2026-09-15,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),317,6
+2026-09-15,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),588,13
+2026-09-15,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),222,5
+2026-09-15,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),310,7
+2026-09-15,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),734,16
+2026-09-15,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),431,11
+2026-09-15,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),314,6
+2026-09-15,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),626,14
+2026-09-15,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),249,5
+2026-09-15,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),190,3
+2026-09-15,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),453,10
+2026-09-15,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),255,6
+2026-09-15,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),246,4
+2026-09-15,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),486,9
+2026-09-15,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),165,4
+2026-09-16,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),333,8
+2026-09-16,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),717,16
+2026-09-16,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),405,10
+2026-09-16,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),381,8
+2026-09-16,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),750,18
+2026-09-16,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),292,7
+2026-09-16,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),435,11
+2026-09-16,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),777,16
+2026-09-16,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),533,11
+2026-09-16,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),469,10
+2026-09-16,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),868,21
+2026-09-16,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),291,6
+2026-09-16,Route 303 - University Circular,06:00 - 08:00 (Early Morning),307,6
+2026-09-16,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),680,13
+2026-09-16,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),362,8
+2026-09-16,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),337,8
+2026-09-16,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),691,16
+2026-09-16,Route 303 - University Circular,19:00 - 22:00 (Late Evening),194,3
+2026-09-16,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),243,4
+2026-09-16,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),578,11
+2026-09-16,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),344,6
+2026-09-16,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),320,6
+2026-09-16,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),610,15
+2026-09-16,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),220,4
+2026-09-16,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),290,7
+2026-09-16,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),738,17
+2026-09-16,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),365,9
+2026-09-16,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),399,8
+2026-09-16,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),698,17
+2026-09-16,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),249,6
+2026-09-16,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),216,5
+2026-09-16,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),438,10
+2026-09-16,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),238,4
+2026-09-16,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),251,5
+2026-09-16,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),407,10
+2026-09-16,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),139,2
+2026-09-17,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),355,8
+2026-09-17,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),790,17
+2026-09-17,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),408,9
+2026-09-17,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),419,10
+2026-09-17,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),763,18
+2026-09-17,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),273,6
+2026-09-17,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),416,10
+2026-09-17,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),856,18
+2026-09-17,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),415,9
+2026-09-17,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),417,10
+2026-09-17,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),847,19
+2026-09-17,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),259,5
+2026-09-17,Route 303 - University Circular,06:00 - 08:00 (Early Morning),258,5
+2026-09-17,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),676,15
+2026-09-17,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),387,7
+2026-09-17,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),287,5
+2026-09-17,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),569,14
+2026-09-17,Route 303 - University Circular,19:00 - 22:00 (Late Evening),247,4
+2026-09-17,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),259,5
+2026-09-17,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),601,13
+2026-09-17,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),275,7
+2026-09-17,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),277,5
+2026-09-17,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),605,12
+2026-09-17,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),219,5
+2026-09-17,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),344,8
+2026-09-17,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),714,15
+2026-09-17,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),371,8
+2026-09-17,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),342,8
+2026-09-17,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),648,14
+2026-09-17,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),212,4
+2026-09-17,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),226,5
+2026-09-17,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),480,9
+2026-09-17,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),271,6
+2026-09-17,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),207,5
+2026-09-17,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),479,9
+2026-09-17,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),162,4
+2026-09-18,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),365,8
+2026-09-18,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),811,16
+2026-09-18,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),409,8
+2026-09-18,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),397,8
+2026-09-18,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),809,16
+2026-09-18,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),269,6
+2026-09-18,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),345,7
+2026-09-18,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),832,19
+2026-09-18,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),423,9
+2026-09-18,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),431,9
+2026-09-18,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),793,15
+2026-09-18,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),266,5
+2026-09-18,Route 303 - University Circular,06:00 - 08:00 (Early Morning),316,6
+2026-09-18,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),639,14
+2026-09-18,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),357,7
+2026-09-18,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),369,8
+2026-09-18,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),721,15
+2026-09-18,Route 303 - University Circular,19:00 - 22:00 (Late Evening),208,4
+2026-09-18,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),226,5
+2026-09-18,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),498,9
+2026-09-18,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),297,6
+2026-09-18,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),292,7
+2026-09-18,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),540,12
+2026-09-18,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),191,4
+2026-09-18,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),280,6
+2026-09-18,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),650,14
+2026-09-18,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),365,7
+2026-09-18,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),391,8
+2026-09-18,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),626,15
+2026-09-18,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),252,6
+2026-09-18,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),215,4
+2026-09-18,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),504,10
+2026-09-18,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),235,5
+2026-09-18,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),207,4
+2026-09-18,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),530,11
+2026-09-18,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),149,3
+2026-09-19,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),248,5
+2026-09-19,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),471,9
+2026-09-19,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),295,6
+2026-09-19,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),278,5
+2026-09-19,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),535,11
+2026-09-19,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),176,4
+2026-09-19,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),247,5
+2026-09-19,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),519,12
+2026-09-19,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),359,8
+2026-09-19,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),272,6
+2026-09-19,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),519,10
+2026-09-19,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),174,3
+2026-09-19,Route 303 - University Circular,06:00 - 08:00 (Early Morning),204,4
+2026-09-19,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),357,8
+2026-09-19,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),247,6
+2026-09-19,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),206,5
+2026-09-19,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),471,9
+2026-09-19,Route 303 - University Circular,19:00 - 22:00 (Late Evening),156,3
+2026-09-19,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),161,3
+2026-09-19,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),387,9
+2026-09-19,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),199,4
+2026-09-19,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),204,4
+2026-09-19,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),384,9
+2026-09-19,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),138,3
+2026-09-19,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),223,5
+2026-09-19,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),513,9
+2026-09-19,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),246,5
+2026-09-19,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),225,4
+2026-09-19,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),533,10
+2026-09-19,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),170,4
+2026-09-19,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),242,5
+2026-09-19,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),649,14
+2026-09-19,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),283,5
+2026-09-19,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),334,7
+2026-09-19,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),652,15
+2026-09-19,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),226,5
+2026-09-20,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),215,4
+2026-09-20,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),449,10
+2026-09-20,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),258,6
+2026-09-20,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),219,4
+2026-09-20,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),466,8
+2026-09-20,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),162,4
+2026-09-20,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),291,5
+2026-09-20,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),600,12
+2026-09-20,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),282,6
+2026-09-20,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),326,6
+2026-09-20,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),530,11
+2026-09-20,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),195,5
+2026-09-20,Route 303 - University Circular,06:00 - 08:00 (Early Morning),162,3
+2026-09-20,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),456,9
+2026-09-20,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),244,5
+2026-09-20,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),189,4
+2026-09-20,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),403,10
+2026-09-20,Route 303 - University Circular,19:00 - 22:00 (Late Evening),139,2
+2026-09-20,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),162,4
+2026-09-20,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),412,8
+2026-09-20,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),173,3
+2026-09-20,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),175,4
+2026-09-20,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),372,7
+2026-09-20,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),116,2
+2026-09-20,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),212,5
+2026-09-20,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),516,13
+2026-09-20,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),251,5
+2026-09-20,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),268,5
+2026-09-20,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),452,10
+2026-09-20,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),162,3
+2026-09-20,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),242,6
+2026-09-20,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),634,14
+2026-09-20,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),344,7
+2026-09-20,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),326,6
+2026-09-20,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),574,14
+2026-09-20,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),204,4
+2026-09-21,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),305,6
+2026-09-21,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),745,15
+2026-09-21,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),432,8
+2026-09-21,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),338,6
+2026-09-21,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),770,18
+2026-09-21,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),224,5
+2026-09-21,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),342,6
+2026-09-21,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),888,17
+2026-09-21,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),494,11
+2026-09-21,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),492,12
+2026-09-21,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),875,17
+2026-09-21,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),338,7
+2026-09-21,Route 303 - University Circular,06:00 - 08:00 (Early Morning),253,5
+2026-09-21,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),712,14
+2026-09-21,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),393,9
+2026-09-21,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),376,8
+2026-09-21,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),659,12
+2026-09-21,Route 303 - University Circular,19:00 - 22:00 (Late Evening),221,4
+2026-09-21,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),270,6
+2026-09-21,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),582,11
+2026-09-21,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),316,7
+2026-09-21,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),255,5
+2026-09-21,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),551,11
+2026-09-21,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),190,3
+2026-09-21,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),298,7
+2026-09-21,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),773,18
+2026-09-21,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),441,10
+2026-09-21,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),411,8
+2026-09-21,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),628,13
+2026-09-21,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),230,4
+2026-09-21,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),212,4
+2026-09-21,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),401,8
+2026-09-21,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),268,6
+2026-09-21,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),202,4
+2026-09-21,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),446,10
+2026-09-21,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),158,3
+2026-09-22,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),356,6
+2026-09-22,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),725,14
+2026-09-22,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),425,9
+2026-09-22,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),378,8
+2026-09-22,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),721,18
+2026-09-22,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),278,6
+2026-09-22,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),383,8
+2026-09-22,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),821,19
+2026-09-22,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),480,9
+2026-09-22,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),428,8
+2026-09-22,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),912,22
+2026-09-22,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),337,7
+2026-09-22,Route 303 - University Circular,06:00 - 08:00 (Early Morning),320,7
+2026-09-22,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),559,11
+2026-09-22,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),388,9
+2026-09-22,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),314,8
+2026-09-22,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),668,13
+2026-09-22,Route 303 - University Circular,19:00 - 22:00 (Late Evening),243,5
+2026-09-22,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),285,6
+2026-09-22,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),615,13
+2026-09-22,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),276,6
+2026-09-22,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),260,5
+2026-09-22,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),501,10
+2026-09-22,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),187,3
+2026-09-22,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),316,6
+2026-09-22,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),609,14
+2026-09-22,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),441,9
+2026-09-22,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),362,7
+2026-09-22,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),789,20
+2026-09-22,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),274,5
+2026-09-22,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),198,4
+2026-09-22,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),428,8
+2026-09-22,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),268,5
+2026-09-22,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),210,4
+2026-09-22,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),455,8
+2026-09-22,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),134,3
+2026-09-23,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),302,7
+2026-09-23,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),713,14
+2026-09-23,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),396,7
+2026-09-23,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),436,8
+2026-09-23,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),721,15
+2026-09-23,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),263,6
+2026-09-23,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),373,8
+2026-09-23,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),885,21
+2026-09-23,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),552,13
+2026-09-23,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),479,9
+2026-09-23,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),943,18
+2026-09-23,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),310,6
+2026-09-23,Route 303 - University Circular,06:00 - 08:00 (Early Morning),245,6
+2026-09-23,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),665,14
+2026-09-23,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),367,7
+2026-09-23,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),321,6
+2026-09-23,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),659,14
+2026-09-23,Route 303 - University Circular,19:00 - 22:00 (Late Evening),206,4
+2026-09-23,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),252,5
+2026-09-23,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),596,14
+2026-09-23,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),272,7
+2026-09-23,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),287,6
+2026-09-23,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),533,11
+2026-09-23,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),184,3
+2026-09-23,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),333,6
+2026-09-23,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),795,19
+2026-09-23,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),369,8
+2026-09-23,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),340,7
+2026-09-23,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),669,16
+2026-09-23,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),210,4
+2026-09-23,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),194,4
+2026-09-23,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),415,8
+2026-09-23,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),222,5
+2026-09-23,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),237,5
+2026-09-23,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),501,11
+2026-09-23,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),155,3
+2026-09-24,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),318,8
+2026-09-24,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),854,18
+2026-09-24,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),474,11
+2026-09-24,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),372,9
+2026-09-24,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),778,15
+2026-09-24,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),272,6
+2026-09-24,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),400,8
+2026-09-24,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),866,17
+2026-09-24,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),521,10
+2026-09-24,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),439,10
+2026-09-24,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),934,22
+2026-09-24,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),309,7
+2026-09-24,Route 303 - University Circular,06:00 - 08:00 (Early Morning),286,5
+2026-09-24,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),595,11
+2026-09-24,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),371,9
+2026-09-24,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),377,8
+2026-09-24,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),718,16
+2026-09-24,Route 303 - University Circular,19:00 - 22:00 (Late Evening),248,5
+2026-09-24,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),230,5
+2026-09-24,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),565,14
+2026-09-24,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),278,6
+2026-09-24,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),290,6
+2026-09-24,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),603,13
+2026-09-24,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),184,3
+2026-09-24,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),280,5
+2026-09-24,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),745,17
+2026-09-24,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),365,7
+2026-09-24,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),363,7
+2026-09-24,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),676,13
+2026-09-24,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),230,4
+2026-09-24,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),230,4
+2026-09-24,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),489,10
+2026-09-24,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),261,6
+2026-09-24,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),230,4
+2026-09-24,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),504,10
+2026-09-24,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),158,3
+2026-09-25,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),346,8
+2026-09-25,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),783,16
+2026-09-25,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),458,11
+2026-09-25,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),411,10
+2026-09-25,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),884,22
+2026-09-25,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),222,5
+2026-09-25,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),355,7
+2026-09-25,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),860,17
+2026-09-25,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),549,10
+2026-09-25,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),489,12
+2026-09-25,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),815,19
+2026-09-25,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),288,6
+2026-09-25,Route 303 - University Circular,06:00 - 08:00 (Early Morning),288,6
+2026-09-25,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),575,11
+2026-09-25,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),335,7
+2026-09-25,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),356,7
+2026-09-25,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),688,14
+2026-09-25,Route 303 - University Circular,19:00 - 22:00 (Late Evening),227,5
+2026-09-25,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),234,5
+2026-09-25,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),518,10
+2026-09-25,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),293,6
+2026-09-25,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),266,5
+2026-09-25,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),552,12
+2026-09-25,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),220,4
+2026-09-25,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),290,7
+2026-09-25,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),732,16
+2026-09-25,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),439,8
+2026-09-25,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),409,8
+2026-09-25,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),674,16
+2026-09-25,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),255,5
+2026-09-25,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),198,4
+2026-09-25,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),446,10
+2026-09-25,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),250,4
+2026-09-25,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),246,6
+2026-09-25,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),481,10
+2026-09-25,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),143,3
+2026-09-26,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),221,4
+2026-09-26,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),424,9
+2026-09-26,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),288,7
+2026-09-26,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),274,7
+2026-09-26,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),514,10
+2026-09-26,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),164,3
+2026-09-26,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),286,6
+2026-09-26,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),523,10
+2026-09-26,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),300,6
+2026-09-26,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),333,8
+2026-09-26,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),607,13
+2026-09-26,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),211,4
+2026-09-26,Route 303 - University Circular,06:00 - 08:00 (Early Morning),208,5
+2026-09-26,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),462,11
+2026-09-26,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),257,4
+2026-09-26,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),207,4
+2026-09-26,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),485,9
+2026-09-26,Route 303 - University Circular,19:00 - 22:00 (Late Evening),161,3
+2026-09-26,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),140,3
+2026-09-26,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),324,6
+2026-09-26,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),189,3
+2026-09-26,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),192,4
+2026-09-26,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),430,8
+2026-09-26,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),125,3
+2026-09-26,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),179,4
+2026-09-26,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),446,10
+2026-09-26,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),226,4
+2026-09-26,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),254,5
+2026-09-26,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),504,12
+2026-09-26,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),172,3
+2026-09-26,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),287,6
+2026-09-26,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),511,10
+2026-09-26,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),291,7
+2026-09-26,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),286,6
+2026-09-26,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),561,13
+2026-09-26,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),216,4
+2026-09-27,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),206,4
+2026-09-27,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),418,8
+2026-09-27,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),286,7
+2026-09-27,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),224,5
+2026-09-27,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),492,10
+2026-09-27,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),189,3
+2026-09-27,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),243,6
+2026-09-27,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),646,15
+2026-09-27,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),328,7
+2026-09-27,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),264,6
+2026-09-27,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),638,13
+2026-09-27,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),193,4
+2026-09-27,Route 303 - University Circular,06:00 - 08:00 (Early Morning),184,4
+2026-09-27,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),435,10
+2026-09-27,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),211,4
+2026-09-27,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),238,6
+2026-09-27,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),422,8
+2026-09-27,Route 303 - University Circular,19:00 - 22:00 (Late Evening),124,2
+2026-09-27,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),143,3
+2026-09-27,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),368,7
+2026-09-27,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),181,4
+2026-09-27,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),191,4
+2026-09-27,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),346,7
+2026-09-27,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),111,2
+2026-09-27,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),221,4
+2026-09-27,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),454,10
+2026-09-27,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),216,4
+2026-09-27,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),255,5
+2026-09-27,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),453,9
+2026-09-27,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),167,3
+2026-09-27,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),226,5
+2026-09-27,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),507,9
+2026-09-27,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),364,9
+2026-09-27,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),341,8
+2026-09-27,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),587,12
+2026-09-27,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),217,4
+2026-09-28,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),352,8
+2026-09-28,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),865,19
+2026-09-28,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),462,9
+2026-09-28,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),375,7
+2026-09-28,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),817,17
+2026-09-28,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),271,6
+2026-09-28,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),358,7
+2026-09-28,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),892,18
+2026-09-28,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),447,11
+2026-09-28,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),391,9
+2026-09-28,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),962,21
+2026-09-28,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),307,6
+2026-09-28,Route 303 - University Circular,06:00 - 08:00 (Early Morning),264,6
+2026-09-28,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),595,11
+2026-09-28,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),375,9
+2026-09-28,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),360,8
+2026-09-28,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),712,14
+2026-09-28,Route 303 - University Circular,19:00 - 22:00 (Late Evening),188,4
+2026-09-28,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),223,5
+2026-09-28,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),582,12
+2026-09-28,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),269,5
+2026-09-28,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),283,6
+2026-09-28,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),535,10
+2026-09-28,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),169,3
+2026-09-28,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),292,5
+2026-09-28,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),744,17
+2026-09-28,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),395,8
+2026-09-28,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),340,8
+2026-09-28,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),642,13
+2026-09-28,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),219,5
+2026-09-28,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),174,3
+2026-09-28,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),500,9
+2026-09-28,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),257,5
+2026-09-28,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),232,4
+2026-09-28,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),526,11
+2026-09-28,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),168,3
+2026-09-29,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),329,8
+2026-09-29,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),726,14
+2026-09-29,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),412,8
+2026-09-29,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),366,7
+2026-09-29,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),851,16
+2026-09-29,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),264,5
+2026-09-29,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),403,10
+2026-09-29,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),816,19
+2026-09-29,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),509,9
+2026-09-29,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),505,12
+2026-09-29,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),976,23
+2026-09-29,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),283,5
+2026-09-29,Route 303 - University Circular,06:00 - 08:00 (Early Morning),294,5
+2026-09-29,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),578,11
+2026-09-29,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),375,8
+2026-09-29,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),327,6
+2026-09-29,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),626,12
+2026-09-29,Route 303 - University Circular,19:00 - 22:00 (Late Evening),188,3
+2026-09-29,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),288,7
+2026-09-29,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),650,14
+2026-09-29,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),287,6
+2026-09-29,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),266,5
+2026-09-29,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),594,12
+2026-09-29,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),188,4
+2026-09-29,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),298,7
+2026-09-29,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),698,15
+2026-09-29,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),337,6
+2026-09-29,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),356,7
+2026-09-29,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),809,18
+2026-09-29,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),233,5
+2026-09-29,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),184,4
+2026-09-29,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),417,8
+2026-09-29,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),253,5
+2026-09-29,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),208,4
+2026-09-29,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),448,9
+2026-09-29,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),154,3
+2026-09-30,Route 101 - Downtown Express,06:00 - 08:00 (Early Morning),356,8
+2026-09-30,Route 101 - Downtown Express,08:00 - 10:00 (Morning Peak),826,16
+2026-09-30,Route 101 - Downtown Express,10:00 - 13:00 (Midday Off-Peak),433,9
+2026-09-30,Route 101 - Downtown Express,13:00 - 16:00 (Afternoon Off-Peak),351,7
+2026-09-30,Route 101 - Downtown Express,16:00 - 19:00 (Evening Peak),702,14
+2026-09-30,Route 101 - Downtown Express,19:00 - 22:00 (Late Evening),259,5
+2026-09-30,Route 202 - Tech Hub Shuttle,06:00 - 08:00 (Early Morning),401,8
+2026-09-30,Route 202 - Tech Hub Shuttle,08:00 - 10:00 (Morning Peak),767,19
+2026-09-30,Route 202 - Tech Hub Shuttle,10:00 - 13:00 (Midday Off-Peak),538,10
+2026-09-30,Route 202 - Tech Hub Shuttle,13:00 - 16:00 (Afternoon Off-Peak),480,9
+2026-09-30,Route 202 - Tech Hub Shuttle,16:00 - 19:00 (Evening Peak),890,17
+2026-09-30,Route 202 - Tech Hub Shuttle,19:00 - 22:00 (Late Evening),280,5
+2026-09-30,Route 303 - University Circular,06:00 - 08:00 (Early Morning),243,5
+2026-09-30,Route 303 - University Circular,08:00 - 10:00 (Morning Peak),613,13
+2026-09-30,Route 303 - University Circular,10:00 - 13:00 (Midday Off-Peak),369,7
+2026-09-30,Route 303 - University Circular,13:00 - 16:00 (Afternoon Off-Peak),328,7
+2026-09-30,Route 303 - University Circular,16:00 - 19:00 (Evening Peak),562,12
+2026-09-30,Route 303 - University Circular,19:00 - 22:00 (Late Evening),187,4
+2026-09-30,Route 404 - Airport Link,06:00 - 08:00 (Early Morning),236,4
+2026-09-30,Route 404 - Airport Link,08:00 - 10:00 (Morning Peak),483,9
+2026-09-30,Route 404 - Airport Link,10:00 - 13:00 (Midday Off-Peak),328,6
+2026-09-30,Route 404 - Airport Link,13:00 - 16:00 (Afternoon Off-Peak),328,8
+2026-09-30,Route 404 - Airport Link,16:00 - 19:00 (Evening Peak),514,12
+2026-09-30,Route 404 - Airport Link,19:00 - 22:00 (Late Evening),176,3
+2026-09-30,Route 505 - Suburban Metro Feed,06:00 - 08:00 (Early Morning),341,8
+2026-09-30,Route 505 - Suburban Metro Feed,08:00 - 10:00 (Morning Peak),674,15
+2026-09-30,Route 505 - Suburban Metro Feed,10:00 - 13:00 (Midday Off-Peak),373,8
+2026-09-30,Route 505 - Suburban Metro Feed,13:00 - 16:00 (Afternoon Off-Peak),412,10
+2026-09-30,Route 505 - Suburban Metro Feed,16:00 - 19:00 (Evening Peak),759,15
+2026-09-30,Route 505 - Suburban Metro Feed,19:00 - 22:00 (Late Evening),251,5
+2026-09-30,Route 606 - Coastal Transit,06:00 - 08:00 (Early Morning),217,5
+2026-09-30,Route 606 - Coastal Transit,08:00 - 10:00 (Morning Peak),433,9
+2026-09-30,Route 606 - Coastal Transit,10:00 - 13:00 (Midday Off-Peak),214,5
+2026-09-30,Route 606 - Coastal Transit,13:00 - 16:00 (Afternoon Off-Peak),209,4
+2026-09-30,Route 606 - Coastal Transit,16:00 - 19:00 (Evening Peak),455,9
+2026-09-30,Route 606 - Coastal Transit,19:00 - 22:00 (Late Evening),158,3
