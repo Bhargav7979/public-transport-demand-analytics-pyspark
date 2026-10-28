@@ -1,260 +1,174 @@
-# Public Transport Passenger Demand Analytics Using Apache Spark and PySpark
+# Public Transport Passenger Demand Analytics
 
-> **Academic Course Project**: Big Data Analytics (BDA) Laboratory  
-> **Evaluation Tier**: Suitable for a Two-Student Team (15-Mark Laboratory Evaluation)  
-> **Primary Technologies**: Python, Apache Spark (PySpark), Streamlit, Pandas, Plotly, Matplotlib  
+## About the Project
 
----
+This is a Big Data Analytics laboratory project that analyzes passenger demand across different public transport routes and time slots. The aim is to understand how passenger counts vary throughout the day and identify routes and time periods with higher demand.
 
-## ⚠️ Academic & Synthetic Dataset Notice
+The project uses Python and PySpark to process passenger records and calculate useful statistics. A Streamlit dashboard is used to display the results through charts, tables, and summary metrics.
 
-> **IMPORTANT DISCLAIMER**: The passenger data (`data/passenger_data.csv`) provided in this repository is **synthetically generated** for academic instruction, laboratory demonstration, and viva-voce evaluation. It reflects simulated commuter patterns and **must not be cited or represented as official public transportation statistics**.
+The project is designed as a starting point for applying Big Data technologies to public transport data. Hadoop HDFS and MapReduce can be incorporated for distributed storage and batch processing, while Apache Cassandra can be used to store the processed results.
 
----
+## Objectives
 
-## 📌 Project Overview
+- Analyze passenger counts across different routes.
+- Calculate total and average passenger counts for each route.
+- Identify time slots with higher passenger demand.
+- Study changes in passenger counts over multiple days.
+- Display the analysis through a simple dashboard.
+- Explore the use of Hadoop and other Big Data technologies in transport analytics.
 
-Urban transit authorities face significant challenges in matching bus fleet capacity to dynamic commuter demand. Overcrowding occurs during peak morning and evening hours, while midday and late-night routes frequently run with low capacity utilization.
+## Technologies Used
 
-This project delivers an end-to-end Big Data solution that:
-1. Ingests and validates multi-route transit telemetry datasets.
-2. Employs **Apache Spark (PySpark)** for distributed transformations, aggregations, and metrics computation:
-   - Route-wise total and average passenger volumes
-   - Commuter peak-hour and time-slot demand identification
-   - Daily temporal demand trends
-   - Bus fleet capacity utilization and overcrowding classification
-3. Provides an interactive, modern **Streamlit web dashboard** featuring real-time KPI metrics, Plotly interactive visualizations, Matplotlib static charts, custom CSV dataset uploads with schema validation, and CSV export capabilities.
-4. Includes an optional **Hadoop HDFS architectural module** detailing distributed ingestion and Parquet storage workflows.
+| Technology | Purpose |
+|---|---|
+| Python | Main programming language |
+| Apache Spark and PySpark | Data processing and analysis |
+| Streamlit | Dashboard interface |
+| Pandas and NumPy | Supporting data manipulation |
+| Plotly and Matplotlib | Data visualization |
+| CSV | Dataset storage format |
+| Hadoop HDFS | Distributed storage, if configured |
+| Hadoop MapReduce | Batch processing, if implemented |
+| Apache Cassandra | Storage of processed results, if integrated |
 
----
+## Dataset
 
-## 🛠️ Technology Stack
+The project uses `passenger_data.csv`, which contains passenger records for different routes and time slots.
 
-| Layer | Technology | Purpose |
-|---|---|---|
-| **Big Data Engine** | Apache Spark / PySpark | Distributed DataFrame transformations, aggregations, and pivot operations |
-| **User Interface** | Streamlit | Web dashboard, dynamic controls, file uploader, and KPI metric cards |
-| **Data Visualization** | Plotly & Matplotlib | Interactive bar charts, heatmaps, pie charts, and academic figures |
-| **Data Manipulation** | Pandas & NumPy | In-memory data manipulation, file parsing, and resilient fallback |
-| **Storage Layer** | CSV / Optional HDFS | Local structured storage and Hadoop cluster integration interface |
+The dataset contains 1,080 records covering 30 days and includes the following columns:
 
----
+| Column | Description |
+|---|---|
+| `Date` | Date of the observation |
+| `Route` | Name or identifier of the route |
+| `TimeSlot` | Time interval for the passenger count |
+| `Passengers` | Recorded passenger count |
+| `BusesOperating` | Number of buses operating during that interval |
 
-## 📁 Project Structure
+The included dataset is synthetic and intended for academic demonstration. It should not be treated as official public transport data.
+
+## Project Structure
 
 ```text
-BDA Project/
+public-transport-demand-analytics-pyspark/
 │
-├── app.py                   # Streamlit web dashboard & visualization interface
-├── analysis.py              # PySpark data processing, transformations, and fallback engine
-├── generate_data.py         # Reproducible synthetic dataset generator script
-├── requirements.txt         # Project dependencies
-├── README.md                # Comprehensive project documentation and lab guide
-├── .gitignore               # Ignored files (virtualenv, spark-warehouse, caches)
+├── app.py
+├── analysis.py
+├── generate_data.py
+├── requirements.txt
+├── README.md
+├── .gitignore
 │
 └── data/
-    └── passenger_data.csv   # Synthetic transit dataset (1,080 records across 30 days)
+    └── passenger_data.csv
 ```
 
----
+- `app.py` contains the Streamlit dashboard.
+- `analysis.py` contains the data-processing and analysis logic.
+- `generate_data.py` generates the sample dataset.
+- `requirements.txt` lists the Python dependencies.
+- `data/passenger_data.csv` contains the passenger records.
 
-## 📊 Dataset Specification
+## Getting Started
 
-The bundled dataset (`data/passenger_data.csv`) models transit operations across 30 days for 6 major city routes and 6 operating time slots.
+### Requirements
 
-| Column Name | Data Type | Description | Example |
-|---|---|---|---|
-| `Date` | String / Date (`YYYY-MM-DD`) | Date of transit operation | `2026-09-01` |
-| `Route` | String | Transit line designation | `Route 101 - Downtown Express` |
-| `TimeSlot` | String | Operational operational interval | `08:00 - 10:00 (Morning Peak)` |
-| `Passengers` | Integer | Total riders boarding during slot | `703` |
-| `BusesOperating` | Integer | Active bus units deployed | `17` |
+Install the following before running the project:
 
-To regenerate or customize the dataset:
-```powershell
-python generate_data.py
+- Python 3.10 or 3.11
+- Java compatible with the selected Apache Spark version
+- Git (optional, for cloning the repository)
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Bhargav7979/public-transport-demand-analytics-pyspark.git
+cd public-transport-demand-analytics-pyspark
 ```
 
----
+If you have not published the repository yet, create it on GitHub and update the URL above.
 
-## ⚙️ Prerequisites & Environment Setup (Windows & VS Code)
+### 2. Create a virtual environment
 
-### 1. Python Environment
-Ensure Python 3.10 or 3.11 (64-bit) is installed:
-```powershell
-python --version
-```
+On Windows:
 
-### 2. Java JDK Configuration (Required for Apache Spark)
-Apache Spark runs on the Java Virtual Machine (JVM). It requires a **64-bit Java JDK** (JDK 8, 11, or 17 recommended):
-1. Download OpenJDK from [Eclipse Temurin](https://adoptium.net/) or install via Windows terminal:
-   ```powershell
-   winget install EclipseAdoptium.Temurin.17.JDK
-   ```
-2. Verify Java installation:
-   ```powershell
-   java -version
-   ```
-3. Set your `JAVA_HOME` environment variable (e.g., `C:\Program Files\Eclipse Adoptium\jdk-17.x.x`):
-   ```powershell
-   [System.Environment]::SetEnvironmentVariable('JAVA_HOME', 'C:\Program Files\Eclipse Adoptium\jdk-17.0.x', 'User')
-   ```
-
-> **Resilient Fallback Mode**: If Java is not configured on the evaluation machine, the system will **automatically fall back to Pandas Compatibility Mode**. All KPI cards, route comparisons, and visual charts will remain 100% operational with an informative badge on the dashboard.
-
----
-
-## 🚀 Installation & Running
-
-### Step 1: Open the Project in VS Code
-Open VS Code, press `Ctrl + ~` to open the integrated PowerShell terminal, and ensure you are in the project folder:
-```powershell
-cd "e:\BDA Project"
-```
-
-### Step 2: (Optional) Create and Activate a Virtual Environment
-```powershell
+```bash
 python -m venv venv
-.\venv\Scripts\Activate.ps1
+venv\Scripts\activate
 ```
 
-### Step 3: Install Required Dependencies
-```powershell
+### 3. Install dependencies
+
+```bash
 pip install -r requirements.txt
 ```
 
-### Step 4: Run the Standalone PySpark Analysis Test
-Verify that the analytics pipeline executes properly:
-```powershell
+Make sure Java is installed and configured if you want to run the PySpark analysis.
+
+### 4. Run the analysis
+
+```bash
 python analysis.py
 ```
 
-### Step 5: Launch the Streamlit Dashboard
-```powershell
+This runs the standalone analysis script. The exact output depends on the implementation and the dataset being used.
+
+### 5. Launch the dashboard
+
+```bash
 streamlit run app.py
 ```
-The application will launch automatically in your browser at `http://localhost:8501`.
 
----
+Open the local address displayed in the terminal, usually `http://localhost:8501`.
 
-## 🖥️ Streamlit Dashboard Features
+## Project Features
 
-1. **Top KPI Metrics Bar**: Total cumulative passengers, total bus trips dispatched, average load per bus, top-demand route, and peak operating slot.
-2. **Route Analytics Tab**:
-   - Total passenger ridership by route (Plotly horizontal bar chart).
-   - Fleet allocation efficiency (average load per bus).
-   - Spark summary aggregation table (`groupBy("Route").agg(...)`).
-3. **Peak Time Slots Tab**:
-   - Commuter distribution across morning peak, evening peak, off-peak, and night intervals.
-   - Commuter share donut chart.
-   - Matplotlib static bar chart formatted for lab reports.
-4. **Daily Trends Tab**:
-   - 30-day temporal trend chart correlating daily ridership against available bus capacity.
-   - Crowding classification distribution (`High Crowding`, `Optimal Load`, `Low Demand`).
-5. **Route × Time Slot Matrix Tab**:
-   - Interactive cross-tabulation heatmap generated via PySpark `.pivot()`.
-6. **Data Explorer & Upload**:
-   - Custom CSV uploader with automated schema validation and missing-value checks.
-   - Filtered dataset preview with CSV download button.
-7. **Hadoop HDFS Architecture Tab**:
-   - Explains cluster deployment, HDFS CLI commands, and distributed Parquet I/O.
+The project is intended to support the following analyses:
 
----
+- **Route analysis:** Compare passenger counts across routes.
+- **Time-slot analysis:** Identify intervals with higher recorded passenger demand.
+- **Daily trends:** Observe how passenger counts change over time.
+- **Data exploration:** Inspect passenger records and use a compatible CSV dataset.
+- **Visualizations:** Present summaries using charts and tables.
 
-## 🐘 Optional Hadoop HDFS Module
+The availability of each feature should be verified against the current application code.
 
-For students wishing to demonstrate Big Data storage architecture in the lab evaluation, `analysis.py` contains utility functions:
+## Big Data Concepts
 
-- `export_to_hdfs(spark, df, hdfs_path)`: Writes PySpark DataFrames to HDFS as partitioned Parquet.
-- `read_from_hdfs(spark, hdfs_path)`: Reads distributed datasets from HDFS NameNodes.
+The project focuses on Spark-based analytics and can be extended to demonstrate additional Big Data technologies.
 
-**Standard HDFS CLI Workflow:**
-```bash
-# 1. Create HDFS directory
-hdfs dfs -mkdir -p /bda_project/data
+**Hadoop HDFS:** Can be used to store passenger datasets in a distributed file system.
 
-# 2. Upload transit CSV to HDFS
-hdfs dfs -put data/passenger_data.csv /bda_project/data/
+**Hadoop MapReduce:** Can be used to calculate route-wise passenger totals through map and reduce operations.
 
-# 3. View HDFS contents
-hdfs dfs -ls /bda_project/data/
-```
+**Apache Spark:** Processes the data and performs aggregations, such as route comparisons and daily trend analysis.
 
----
+**PySpark:** Provides the Python interface used to write Spark applications.
 
-## 🎓 College Lab Evaluation & Viva-Voce Q&A
+**Apache Cassandra:** Can store processed summaries for retrieval by the dashboard.
 
-This project is tailored for a **two-student team** in a **15-Mark Laboratory Evaluation**:
+HDFS, MapReduce, and Cassandra should only be considered completed project components after they have been configured and tested. Spark and PySpark are not separate processing engines; PySpark is the Python API for Spark.
 
-| Student | Assigned Domain | Responsibilities |
-|---|---|---|
-| **Student 1** | Big Data Pipeline & PySpark Engine | `analysis.py`, schema validation, Spark transformations (`groupBy`, `agg`, `withColumn`, `pivot`), and HDFS integration. |
-| **Student 2** | Dashboard, Visual Analytics & UI | `app.py`, KPI metrics cards, Plotly/Matplotlib charts, sidebar filters, file uploader, and deployment. |
+## Limitations
 
-### Common Viva Questions & Answers:
+- The included dataset is synthetic and does not represent verified passenger statistics.
+- The analysis depends on the quality and coverage of the input data.
+- Running Spark locally does not demonstrate execution on a distributed cluster.
+- Passenger counts alone cannot establish overcrowding without reliable capacity or occupancy information.
+- Additional configuration and testing are required for HDFS, MapReduce, and Cassandra integration.
 
-1. **Q: Why use PySpark instead of pure Pandas for transit analytics?**  
-   *A:* Pandas processes data in single-machine memory. PySpark utilizes Apache Spark's distributed computing engine, dividing data across worker partitions (RDDs/DataFrames) and executing in-memory transformations in parallel. This enables scaling to millions of daily transit GPS/tap-in records.
+## Future Improvements
 
-2. **Q: What is the difference between Spark Transformations and Actions?**  
-   *A:* Transformations (`withColumn`, `filter`, `groupBy`) are evaluated lazily and build a Directed Acyclic Graph (DAG) execution plan. Actions (`count`, `collect`, `show`, `toPandas`) trigger physical execution across the cluster.
+Possible extensions include using a verified public transport dataset, integrating HDFS for distributed storage, implementing a Hadoop MapReduce job, storing processed summaries in Cassandra, and exploring passenger demand forecasting when sufficient historical data is available.
 
-3. **Q: How does the system handle missing values or incorrect schema?**  
-   *A:* `validate_dataset_schema()` checks for required column headers (`Date`, `Route`, `TimeSlot`, `Passengers`, `BusesOperating`), identifies non-numeric inputs, flags null counts, and cleans data gracefully in `clean_dataset()`.
+## Academic Use
 
-4. **Q: How does the Route x Time Slot matrix work in PySpark?**  
-   *A:* It uses Spark's `groupBy("Route").pivot("TimeSlot").sum("Passengers")` to perform a distributed two-dimensional transposition.
+This project was developed as part of the Big Data Analytics laboratory evaluation at Ramdeobaba University. It is intended for learning and demonstrating data processing, analytics, and visualization concepts.
 
----
+## References
 
-## 🐙 Publishing to GitHub (Git Step-by-Step Guide)
-
-Follow these exact commands to publish this completed project to your public GitHub profile:
-
-### 1. Initialize Local Git Repository
-```powershell
-cd "e:\BDA Project"
-git init
-```
-
-### 2. Stage All Project Files
-```powershell
-git add .
-```
-
-### 3. Verify Staged Files
-```powershell
-git status
-```
-*(Verify that `passenger_data.csv`, `app.py`, `analysis.py`, `requirements.txt`, and `README.md` are staged, and `.venv`/cache files are excluded by `.gitignore`)*
-
-### 4. Commit Changes
-```powershell
-git commit -m "Initial commit: Public Transport Passenger Demand Analytics using PySpark & Streamlit"
-```
-
-### 5. Create a New Public Repository on GitHub
-1. Log in to [GitHub](https://github.com).
-2. Click the **+** icon in the top right corner and select **New repository**.
-3. Name the repository: `public-transport-demand-analytics-pyspark`.
-4. Set visibility to **Public**.
-5. **Do not** check "Add a README file" or ".gitignore" (these are already created locally).
-6. Click **Create repository**.
-
-### 6. Link and Push to GitHub
-Copy your repository URL from GitHub and run:
-```powershell
-# Set default branch to main
-git branch -M main
-
-# Add your remote GitHub repository (replace USERNAME and REPO_NAME with yours)
-git remote add origin https://github.com/USERNAME/public-transport-demand-analytics-pyspark.git
-
-# Push code to GitHub
-git push -u origin main
-```
-
----
-
-## 📜 License
-This project is open-source under the MIT License for educational and academic purposes.
+- Apache Spark: https://spark.apache.org/docs/latest/
+- PySpark API: https://spark.apache.org/docs/latest/api/python/
+- Apache Hadoop: https://hadoop.apache.org/docs/stable/
+- Apache Cassandra: https://cassandra.apache.org/doc/latest/
+- Streamlit: https://docs.streamlit.io/
